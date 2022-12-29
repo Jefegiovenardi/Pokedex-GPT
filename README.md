@@ -12,7 +12,7 @@ Esse projeto foi criado com o objetivo de explorar a API de pokemons e desenvolv
 
 Para isso, foi utilizada a biblioteca axios para realizar chamadas HTTP à API de pokemons e obter informações sobre os pokemons, como nome, tipos e imagem. Além disso, foi utilizado o React para criar a interface do aplicativo, permitindo que o usuário pesquise por um pokemon específico ou veja a lista de pokemons de um determinado tipo.
 
-O css foi utilizado para estilizar a interface do aplicativo e dar um toque mais divertido, como cores que correspondem aos tipos dos pokemons e imagens de markers personalizados para cada tipo.
+O css foi utilizado parsa estilizar a interface do aplicativo e dar um toque mais divertido, como cores que correspondem aos tipos dos pokemons e imagens de markers personalizados para cada tipo.
 
 Além disso, foi implementada uma função que recebe o nome de um pokemon e retorna seu tipo principal, permitindo que os pokemons sejam exibidos na lista com a cor correspondente ao seu tipo.
 
@@ -39,3 +39,9 @@ The Assistant also helped with the implementation of the PokemonTypeList compone
 Additionally, the Assistant suggested creating a function to retrieve the primary type of a Pokemon by its name, using the axios library to make the API call and returning the type as a string. This function was then used to apply custom CSS styles to each Pokemon element in the list, using the type as a class name.
 
 Overall, the Assistant was a valuable resource in the development of this Pokedex, providing insights and guidance on various aspects of the project.
+
+# Imagens
+
+![Pokemon search](initial.png)
+![Pokemon info](search.png)
+![Similars by type](type_search.png)
